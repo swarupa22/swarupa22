@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarupa22&label=Profile%20views&color=0e75b6&style=flat" alt="swarupa22" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **DevOps**
 
 - ⚡**I tend to have a strong curiosity🤔 about how things work and are built**
 
