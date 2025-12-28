@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Swarupa</h1>
 <h3 align="center">Salesforce Developer ☁️ | DevOps Learner 🔧</h3>
 
-<img align="right" alt="coding" width="300" height="300" src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
+<img align="right" alt="coding" width="300" height="150" src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=swarupa22&label=Profile%20views&color=0e75b6&style=flat" alt="swarupa22" />
