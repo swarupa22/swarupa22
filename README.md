@@ -15,7 +15,7 @@
 
 - 👨‍💻 Explore my projects at [GitHub: https://github.com/swarupa22](GitHub: https://github.com/swarupa22)
 
-- 📝 I write and share learning notes & cheatsheets on Salesforce and DevOps concepts [(blogs coming soon on Hashnode 🚀)]((blogs coming soon on Hashnode 🚀))
+- 📝 I write and share learning notes & cheatsheets on Salesforce and DevOps concepts [(blogs coming soon on Hashnode 🚀)]
 
 - 💬 Let’s connect! **📧 munagalalakshmiswarupa23@gmail.com 💼 linkedin.com/in/lakshmiswarupa25**
 
