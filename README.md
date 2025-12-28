@@ -10,7 +10,6 @@
 ---
 
 ### 👩‍💻 About Me
-
 <img align="right" alt="coding" width="280"
 src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 
