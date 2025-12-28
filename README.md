@@ -21,25 +21,26 @@ src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 - 🧠 Strong believer in **hands-on learning & clean documentation**
 
 ---
+☁️ Salesforce Expertise
+<p align="left">
 
-## ☁️ Salesforce Expertise
+<strong>🛠️ Administration</strong><br/>
+👥 Users & Access  • 
+🔐 Security & Data  • 
+🔄 Flows & Automation  • 
+📊 Reports & Dashboards
 
-### 🛠️ Administration
-- 👥 User, Profile & Permission Management  
-- 🔐 Data Security & Access Control  
-- 🔄 Flow Automation  
-- ✅ Validation Rules  
-- 📊 Reports & Dashboards  
+</p> <p align="left">
 
-### ⚙️ Development
-- 🧩 Apex & Triggers  
-- 🔍 SOQL / SOSL  
-- ⚡ Lightning Web Components (LWC)  
-- ⏱️ Batch, Queueable & Async Apex  
-- 🧪 Test Classes & Code Coverage  
-- 🔗 Integrations & Governor Limits  
+<strong>⚙️ Development</strong><br/>
+🧩 Apex & Triggers  • 
+🔍 SOQL / SOSL  • 
+⚡ LWC  • 
+⏱️ Async Apex  • 
+🧪 Test Classes  • 
+🔗 Integrations
 
----
+</p>
 
 ## 💻 Programming Languages
 
