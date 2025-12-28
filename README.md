@@ -19,25 +19,10 @@ src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 - 👨‍💻 Explore my projects at [GitHub: https://github.com/swarupa22]
 
 ## ☁️ Salesforce Expertise
-<p align="left">
 
-<strong>🛠️ Administration</strong><br/>
-👥 Users & Access  • 
-🔐 Security & Data  • 
-🔄 Flows & Automation  • 
-📊 Reports & Dashboards
+🛠️ <b>Admin:</b> 👥 Users • 🔐 Security • 🔄 Flows • 📊 Reports  
+⚙️ <b>Dev:</b> 🧩 Apex • 🔍 SOQL • ⚡ LWC • ⏱️ Async • 🧪 Tests • 🔗 Integrations
 
-</p> <p align="left">
-
-<strong>⚙️ Development</strong><br/>
-🧩 Apex & Triggers  • 
-🔍 SOQL / SOSL  • 
-⚡ LWC  • 
-⏱️ Async Apex  • 
-🧪 Test Classes  • 
-🔗 Integrations
-
-</p>
 
 ## 💻 Programming Languages
 
