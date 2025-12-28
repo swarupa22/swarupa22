@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=swarupa22&label=Profile%20views&color=0e75b6&style=flat" alt="swarupa22" />
 </p>
 
+
 <img align="right" alt="coding" width="280"
 src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 
@@ -20,8 +21,7 @@ src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
   *(Blogs coming soon on Hashnode 🚀)*
 - 🧠 Strong believer in **hands-on learning & clean documentation**
 
----
-☁️ Salesforce Expertise
+## 💻 salesforce Expertise
 <p align="left">
 
 <strong>🛠️ Administration</strong><br/>
@@ -54,8 +54,6 @@ src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
 </p>
 
----
-
 ## 🛠️ Tools & Technologies
 
 <p align="left">
@@ -78,13 +76,9 @@ src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="45"/>
 </p>
 
----
-
 ## 🤝 Soft Skills
 
 🧠 Problem Solving &nbsp;•&nbsp; 💬 Communication &nbsp;•&nbsp; ⏳ Time Management &nbsp;•&nbsp; 📚 Self-Learning
-
----
 
 ## 🌐 Connect With Me
 
@@ -94,14 +88,11 @@ src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
   <a href="https://hashnode.com/lakshmiswarupa22" target="_blank">✍️ Hashnode</a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarupa22" alt="swarupa22" />
 </p>
-
----
 
 ⚡ **Fun fact:** Debugging feels like solving puzzles to me 🧩
