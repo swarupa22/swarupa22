@@ -1,29 +1,96 @@
 
 <h1 align="center">Hi 👋, I'm Lakshmi Swarupa</h1>
-<h3 align="center">Insightful Innovator</h3>
+<h3 align="center">Salesforce Developer | DevOps Learner | Curious Builder</h3>
 
 <img align="right" alt="coding" width="300" src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarupa22&label=Profile%20views&color=0e75b6&style=flat" alt="swarupa22" /> </p>
-
-- 🌱 I’m currently learning **DevOps**
-
-- ⚡**I tend to have a strong curiosity🤔 about how things work and are built**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lakshmiswarupamunagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmiswarupamunagala" height="30" width="40" /></a>
-<a href="https://kaggle.com/lakshmiswarupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lakshmiswarupa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lakshmiswarupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshmiswarupa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swarupa22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swarupa22" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/swarupa22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swarupa22" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=swarupa22&label=Profile%20views&color=0e75b6&style=flat" alt="swarupa22" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupa22&show_icons=true&locale=en&layout=compact" alt="swarupa22" /></p>
+### 👩‍💻 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarupa22&show_icons=true&locale=en" alt="swarupa22" /></p>
+Hey there! I'm **Lakshmi** 👋  
+A **Salesforce Developer with 1.4+ years of experience**, passionate about building **scalable, meaningful, and user-friendly solutions** on the Salesforce platform 🚀  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarupa22&" alt="swarupa22" /></p>
+I enjoy understanding **how systems work end-to-end** and love continuously upgrading my skills 🌱  
+Currently, I’m **expanding into DevOps** to strengthen my development and deployment mindset 🔧
+
+---
+
+### 💼 Salesforce Expertise  
+
+- Salesforce **Service Cloud & Marketing Cloud**
+- **Apex**, **SOQL**, **SOSL**
+- **Flows**, **Process Builder**, **Triggers**
+- **Lightning Web Components (LWC)** & **Aura**
+- **Reports & Dashboards**
+- **Data Loader & Workbench**
+- Frontend: **HTML, CSS, JavaScript**
+
+---
+
+### 🔧 DevOps Journey (In Progress)  
+
+- 🐍 **Python for DevOps** (automation, scripting)
+- 🧠 Learning mindset: CI/CD, Cloud & Infrastructure concepts  
+- 📈 More tools coming soon (Git, Linux, Cloud, Pipelines…)
+
+> *Building DevOps skills step-by-step alongside Salesforce.*
+
+---
+
+### 🌱 What Drives Me  
+
+- Strong curiosity about **how things are built**
+- Love simplifying complex concepts
+- Consistent learner & documentation enthusiast
+- Open to collaboration and knowledge sharing 🤝
+
+---
+
+### 🔗 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/lakshmiswarupamunagala" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://hashnode.com/@lakshmiswarupa" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hashnode.svg" height="30" width="40" />
+  </a>
+</p>
+
+📧 **Email:** munagalalakshmiswarupa23@gmail.com  
+
+---
+
+### 🛠️ Languages & Tools  
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupa22&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarupa22&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarupa22" />
+</p>
+
