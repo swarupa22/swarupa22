@@ -10,7 +10,7 @@
 ---
 
 ### 👩‍💻 About Me
-<img align="right" alt="coding" width="280"
+<img align="right" alt="coding" width="200"
 src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 
 - 💼 Currently working as a Salesforce Developer at Capgemini
