@@ -11,77 +11,93 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 - 💼 Salesforce Developer at **Capgemini**
-- 🚀 Actively upskilling in **DevOps, Linux, CI/CD & Cloud**
-- 🧠 I love breaking down complex concepts into **clear notes & cheatsheets**
-- 📝 Sharing learning notes on **Salesforce & DevOps**  
-  _(Blogs coming soon on Hashnode 🚀)_
+- 🚀 Upskilling in **DevOps, Linux, CI/CD & Cloud**
+- 📝 Sharing **learning notes & cheatsheets** on Salesforce & DevOps  
+  *(Blogs coming soon on Hashnode 🚀)*
 
 ---
 
-## 🧩 Skills & Expertise
+## ☁️ Salesforce Expertise
 
-### ☁️ Salesforce Administration
-- 👥 User, Role & Profile Management  
-- 🔐 Data Security & Access Control  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Salesforce Administration
+- 👥 User, Profile & Permission Management  
+- 🔐 Data & Security Management  
 - 🔄 Flow Automation  
 - ✅ Validation Rules  
 - 📊 Reports & Dashboards  
 
+</td>
+<td width="50%" valign="top">
+
 ### ⚙️ Salesforce Development
-- 🧑‍💻 Apex & Triggers  
-- 🔎 SOQL / SOSL  
+- 🧠 Apex & Triggers  
+- 🔍 SOQL / SOSL  
 - ⚡ Lightning Web Components (LWC)  
 - ⏱️ Batch, Queueable & Async Apex  
 - 🧪 Test Classes & Code Coverage  
 - 🔗 Integrations & Governor Limits  
 
-### 💻 Programming Languages
-- 🐍 Python  
-- ☕ Java  
-- 🧮 C  
-- 🗄️ SQL  
-- 🌐 HTML5, CSS3, JavaScript (ES6)
-
-### 🛠️ Tools & Technologies
-- ☁️ Salesforce CRM  
-- 🌱 Git, Bitbucket  
-- 📌 Jira, Confluence  
-- 🖥️ VS Code, Workbench  
-- 🐧 Linux  
-- 🔁 CI/CD Pipelines  
-- 📊 Google Colab  
-
-### 🌟 Soft Skills
-- 🧠 Problem Solving  
-- 💬 Communication  
-- ⏳ Time Management  
-- 📚 Self-Learning Mindset  
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔗 Connect With Me
+## 💻 Programming Languages
 
 <p align="left">
-  <a href="mailto:munagalalakshmiswarupa23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/lakshmiswarupa25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://hashnode.com/lakshmiswarupa22" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-Blogs-black?style=for-the-badge&logo=hashnode">
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarupa22" alt="swarupa22" />
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-⚡ **Fun fact:** Debugging feels like solving puzzles to me 🧩  
+## 🤝 Soft Skills
+
+- 🧠 **Problem Solving**
+- 💬 **Communication**
+- ⏳ **Time Management**
+- 📚 **Self Learning**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  📧 <a href="mailto:munagalalakshmiswarupa23@gmail.com"><b>Email</b></a><br/>
+  💼 <a href="https://linkedin.com/in/lakshmiswarupa25" target="_blank"><b>LinkedIn</b></a><br/>
+  ✍️ <a href="https://hashnode.com/lakshmiswarupa22" target="_blank"><b>Hashnode</b></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarupa22" alt="swarupa22" />
+</p>
+
+⚡ Fun fact: Debugging feels like solving puzzles to me 🧩
