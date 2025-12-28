@@ -5,21 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarupa22&label=Profile%20views&color=0e75b6&style=flat" alt="swarupa22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarupa22" alt="swarupa22" /></a> </p>
+- 💼 Currently working as a Salesforce Developer at Capgemini
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🚀 Upskilling in DevOps, Linux, CI/CD, and cloud technologies
 
-- 💼 Currently working as a **Salesforce Developer at Capgemini**
-
-- 🚀 Upskilling in **DevOps, Linux, CI/CD, and cloud technologies**
-
-- 👨‍💻 Explore my projects at [GitHub: https://github.com/swarupa22](GitHub: https://github.com/swarupa22)
+- 👨‍💻 Explore my projects at [GitHub: https://github.com/swarupa22]
 
 - 📝 I write and share learning notes & cheatsheets on Salesforce and DevOps concepts [(blogs coming soon on Hashnode 🚀)]
 
-- 💬 Let’s connect! **📧 munagalalakshmiswarupa23@gmail.com 💼 linkedin.com/in/lakshmiswarupa25**
+- 💬 Let’s connect! 📧 munagalalakshmiswarupa23@gmail.com 💼 linkedin.com/in/lakshmiswarupa25
 
-- ⚡ Fun fact **Debugging feels like solving puzzles to me 🧩**
+- ⚡ Fun fact: Debugging feels like solving puzzles to me 🧩
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
