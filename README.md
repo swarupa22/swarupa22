@@ -20,8 +20,30 @@ src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 
 ## ☁️ Salesforce Expertise
 
-🛠️ <b>Admin:</b> 👥 Users • 🔐 Security • 🔄 Flows • 📊 Reports  
-⚙️ <b>Dev:</b> 🧩 Apex • 🔍 SOQL • ⚡ LWC • ⏱️ Async • 🧪 Tests • 🔗 Integrations
+<div style="display:flex; gap:40px; flex-wrap:wrap;">
+
+<div style="flex:1; min-width:260px;">
+
+<strong>🛠️ Administration</strong><br/>
+👥 Users & Access &nbsp;•&nbsp;
+🔐 Security & Data &nbsp;•&nbsp;
+🔄 Flows & Automation &nbsp;•&nbsp;
+📊 Reports
+
+</div>
+
+<div style="flex:1; min-width:260px;">
+
+<strong>⚙️ Development</strong><br/>
+🧩 Apex & Triggers &nbsp;•&nbsp;
+🔍 SOQL / SOSL &nbsp;•&nbsp;
+⚡ LWC &nbsp;•&nbsp;
+⏱️ Async Apex &nbsp;•&nbsp;
+🔗 Integrations
+
+</div>
+
+</div>
 
 
 ## 💻 Programming Languages
