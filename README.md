@@ -7,21 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=swarupa22&label=Profile%20views&color=0e75b6&style=flat" alt="swarupa22" />
 </p>
 
-
-<img align="right" alt="coding" width="280"
-src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
-
 ---
 
 ### 👩‍💻 About Me
 
-- 💼 Salesforce Developer at **Capgemini**
-- 🚀 Upskilling in **DevOps, Linux, CI/CD & Cloud**
-- 📝 I write & share **learning notes and cheatsheets**  
-  *(Blogs coming soon on Hashnode 🚀)*
-- 🧠 Strong believer in **hands-on learning & clean documentation**
+<img align="right" alt="coding" width="280"
+src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 
-## 💻 salesforce Expertise
+- 💼 Currently working as a Salesforce Developer at Capgemini
+- 🚀 Upskilling in DevOps, Linux, CI/CD, and cloud technologies
+- 📝 I write and share learning notes & cheatsheets on Salesforce and DevOps concepts [(blogs coming soon on Hashnode 🚀)]
+- 👨‍💻 Explore my projects at [GitHub: https://github.com/swarupa22]
+
+## ☁️ Salesforce Expertise
 <p align="left">
 
 <strong>🛠️ Administration</strong><br/>
