@@ -15,8 +15,8 @@ src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 
 - 💼 Currently working as a Salesforce Developer at Capgemini
 - 🚀 Upskilling in DevOps, Linux, CI/CD, and cloud technologies
-- 📝 I write and share learning notes & cheatsheets on Salesforce and DevOps concepts [(blogs coming soon on Hashnode 🚀)]
-- 👨‍💻 Explore my projects at [GitHub: https://github.com/swarupa22]
+- 📝 I write and share learning notes & cheatsheets on Salesforce and DevOps concepts (blogs coming soon on Hashnode 🚀)
+- 👨‍💻 Explore my projects at GitHub: https://github.com/swarupa22
 
 ## ☁️ Salesforce Expertise
 
@@ -89,7 +89,7 @@ src="https://github.com/swarupa22/swarupa22/blob/main/profile.gif?raw=true">
 <p align="left">
   <a href="mailto:munagalalakshmiswarupa23@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/lakshmiswarupa25" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://hashnode.com/lakshmiswarupa22" target="_blank">✍️ Hashnode</a>
+  <a href="https://hashnode.com/@swarudevopsjourney" target="_blank">✍️ Hashnode</a>
 </p>
 
 
